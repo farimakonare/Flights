@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.threetenabp:threetenabp:1.4.3@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/8.10.2/transforms/4ff24449b55e292647e5a985bd38b180/transformed/threetenabp-1.4.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/8.10.2/transforms/4ff24449b55e292647e5a985bd38b180/transformed/threetenabp-1.4.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.threetenabp/threetenabp/1.4.3/96db5e3f7d62fe9ac6df63bc1bd36beaaca30666/threetenabp-1.4.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.threetenabp/threetenabp/1.4.3/ddab8d04cb1942383d984bc18d95d1aecb7db280/threetenabp-1.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

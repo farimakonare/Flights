@@ -1,0 +1,6 @@
+com.example.flights.test.app-core-1.5.0-0 /Users/mac/.gradle/caches/8.10.2/transforms/6e4e058f4af824373b852262c88fa81e/transformed/core-1.5.0/res
+com.example.flights.test.app-annotation-experimental-1.3.0-1 /Users/mac/.gradle/caches/8.10.2/transforms/ed8c679f1277c2bb1ff8410f57799e5d/transformed/annotation-experimental-1.3.0/res
+com.example.flights.test.app-androidTest-2 /Users/mac/AndroidStudioProjects/Flights/app/build/generated/res/resValues/androidTest/debug
+com.example.flights.test.app-mergeDebugAndroidTestResources-3 /Users/mac/AndroidStudioProjects/Flights/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.flights.test.app-mergeDebugAndroidTestResources-4 /Users/mac/AndroidStudioProjects/Flights/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.flights.test.app-debugAndroidTest-5 /Users/mac/AndroidStudioProjects/Flights/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

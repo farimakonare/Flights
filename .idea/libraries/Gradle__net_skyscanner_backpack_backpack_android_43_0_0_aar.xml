@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.skyscanner.backpack:backpack-android:43.0.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/8.10.2/transforms/708c3a63e98dc85b5a943d25f6f7b7f5/transformed/backpack-android-43.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/8.10.2/transforms/708c3a63e98dc85b5a943d25f6f7b7f5/transformed/backpack-android-43.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.10.2/transforms/708c3a63e98dc85b5a943d25f6f7b7f5/transformed/backpack-android-43.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
